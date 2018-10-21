@@ -6,7 +6,7 @@ The app allows the users to enter an anonymous chatting room with room number. E
 ### App Idea Evaluation
 - Mobile: Mobile app allows users to easily text each other at any time. Users will be able to send audio records or photos with mobile phones.
 - Story: Users will feel safe to chat anonymously here, since the app only allows a small group of people to share their secrets, and all information will eventually disappear.
-- Market: Anyone who wants to share stories/opinions or ask for advice withou revealing their identities can use this app.
+- Market: Anyone who wants to share stories/opinions or ask for advice without revealing their identities can use this app.
 - Habit: Users are using the app daily to communicate to others.
 - Scope: The basic function will allow users to enter/create chat rooms, and send message to each other. In the future, the users will be able to save the chat they start, or delete the chat room they create.
 
