@@ -27,3 +27,45 @@ The app allows the users to enter an anonymous chatting room with room number. E
 // TODO: Add link to Pitch Presentation Deck
 
 // STILL NEEDS CHANGES ONCE WE DECIDE ON WHICH PROJECT TO WORK WITH
+
+
+
+# College Anonymouse Chat App
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can join a server with a randomly generated name that is unique to the user.
+ * User can leave the server and join another.
+
+**Optional Nice-to-have Stories**
+
+ * User can change the color of their name
+ * User can have dark or light theme
+ * User can add an @ to another person's name.
+
+## 2. Screen Archetypes
+
+ * User opens the app and is greeted with a list of servers. THis is the first screen.
+ * Second screen is the chat. There will be a keyboard and the chat that will take up 90% of the screen. The 10% at the top will be to leave the chat and a settings button.
+ * Settings button will have name color changer and toggling between dark and light theme.
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Main menu with servers
+ * Chat screen
+ * Settings
+
+**Flow Navigation** (Screen to Screen)
+
+ * Main Menu
+   * Goes into chat
+   * Goes into settings
+ * Chat/Server Screen
+   * Can leave and go into server menu
+   * Can also go into settings
+ * Settings
+    * Goes into menu or chat depending on the last screen the user was on.  
