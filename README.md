@@ -68,4 +68,8 @@ The app allows the users to enter an anonymous chatting room with room number. E
    * Can leave and go into server menu
    * Can also go into settings
  * Settings
-    * Goes into menu or chat depending on the last screen the user was on.  
+    * Goes into menu or chat depending on the last screen the user was on.
+    
+    
+#GIF OF PROTOTYPE
+<img src="https://i.imgur.com/vm54Ymq.gif"></img>
