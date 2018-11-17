@@ -71,5 +71,5 @@ The app allows the users to enter an anonymous chatting room with room number. E
     * Goes into menu or chat depending on the last screen the user was on.
     
     
-#GIF OF PROTOTYPE
+## GIF OF PROTOTYPE
 <img src="https://i.imgur.com/vm54Ymq.gif"></img>
